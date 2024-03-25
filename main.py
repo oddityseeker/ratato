@@ -10,7 +10,7 @@ import os
 x=0
 y=0
 fl = 0
-token="7151551126:AAHxQ0-ZSd4L_6DIU8RixTGHKczPrwDcUts"
+token=""
 
 bot=telebot.TeleBot(token)
 
